@@ -277,23 +277,23 @@
     </File>
     <File>
       <GroupNumber>2</GroupNumber>
-      <FileNumber>0</FileNumber>
+      <FileNumber>6</FileNumber>
       <FileType>1</FileType>
-      <tvExp>1</tvExp>
+      <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>56</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>3</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\app\ired\ired.c</PathWithFileName>
       <FilenameWithoutPath>ired.c</FilenameWithoutPath>
     </File>
     <File>
       <GroupNumber>2</GroupNumber>
-      <FileNumber>0</FileNumber>
+      <FileNumber>7</FileNumber>
       <FileType>1</FileType>
-      <tvExp>1</tvExp>
+      <tvExp>0</tvExp>
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -305,14 +305,14 @@
     </File>
     <File>
       <GroupNumber>2</GroupNumber>
-      <FileNumber>0</FileNumber>
+      <FileNumber>8</FileNumber>
       <FileType>1</FileType>
-      <tvExp>1</tvExp>
+      <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>65</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>13</TopLine>
-      <CurrentLine>35</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\app\uart\uart.c</PathWithFileName>
       <FilenameWithoutPath>uart.c</FilenameWithoutPath>
@@ -326,14 +326,14 @@
     <cbSel>0</cbSel>
     <File>
       <GroupNumber>3</GroupNumber>
-      <FileNumber>6</FileNumber>
+      <FileNumber>9</FileNumber>
       <FileType>1</FileType>
-      <tvExp>1</tvExp>
+      <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>30</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>25</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\public\public.c</PathWithFileName>
       <FilenameWithoutPath>public.c</FilenameWithoutPath>
@@ -341,9 +341,9 @@
   </Group>
 
   <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\APP\24C02\24C02.H</PathWithFilename>
+    <PathWithFilename>D:\documents\STC89C52\PUBLIC\PUBLIC.H</PathWithFilename>
     <TopLine>1</TopLine>
-    <CurrentLine>1</CurrentLine>
+    <CurrentLine>13</CurrentLine>
     <Constant>0</Constant>
     <WindowPosition>
       <length>0</length>
@@ -367,85 +367,7 @@
   </AlienFiles>
 
   <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\APP\IIC\IIC.H</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>9</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
-
-  <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\APP\IRED\IRED.H</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>11</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
-
-  <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\app\uart\uart.h</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>11</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
-
-  <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\APP\SMG\SMG.H</PathWithFilename>
+    <PathWithFilename>D:\documents\STC89C52\APP\SMG\SMG.H</PathWithFilename>
     <TopLine>1</TopLine>
     <CurrentLine>14</CurrentLine>
     <Constant>0</Constant>
@@ -471,9 +393,87 @@
   </AlienFiles>
 
   <AlienFiles>
-    <PathWithFilename>D:\Keil\work\红外遥控扩展\PUBLIC\PUBLIC.H</PathWithFilename>
+    <PathWithFilename>D:\documents\STC89C52\APP\UART\UART.H</PathWithFilename>
     <TopLine>1</TopLine>
-    <CurrentLine>13</CurrentLine>
+    <CurrentLine>11</CurrentLine>
+    <Constant>0</Constant>
+    <WindowPosition>
+      <length>0</length>
+      <flags>0</flags>
+      <showCmd>0</showCmd>
+      <MinPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MinPosition>
+      <MaxPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MaxPosition>
+      <NormalPosition>
+        <Top>0</Top>
+        <Left>0</Left>
+        <Right>0</Right>
+        <Bottom>0</Bottom>
+      </NormalPosition>
+    </WindowPosition>
+  </AlienFiles>
+
+  <AlienFiles>
+    <PathWithFilename>D:\documents\STC89C52\APP\IRED\IRED.H</PathWithFilename>
+    <TopLine>1</TopLine>
+    <CurrentLine>11</CurrentLine>
+    <Constant>0</Constant>
+    <WindowPosition>
+      <length>0</length>
+      <flags>0</flags>
+      <showCmd>0</showCmd>
+      <MinPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MinPosition>
+      <MaxPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MaxPosition>
+      <NormalPosition>
+        <Top>0</Top>
+        <Left>0</Left>
+        <Right>0</Right>
+        <Bottom>0</Bottom>
+      </NormalPosition>
+    </WindowPosition>
+  </AlienFiles>
+
+  <AlienFiles>
+    <PathWithFilename>D:\documents\STC89C52\APP\24C02\24C02.H</PathWithFilename>
+    <TopLine>1</TopLine>
+    <CurrentLine>1</CurrentLine>
+    <Constant>0</Constant>
+    <WindowPosition>
+      <length>0</length>
+      <flags>0</flags>
+      <showCmd>0</showCmd>
+      <MinPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MinPosition>
+      <MaxPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MaxPosition>
+      <NormalPosition>
+        <Top>0</Top>
+        <Left>0</Left>
+        <Right>0</Right>
+        <Bottom>0</Bottom>
+      </NormalPosition>
+    </WindowPosition>
+  </AlienFiles>
+
+  <AlienFiles>
+    <PathWithFilename>D:\documents\STC89C52\APP\IIC\IIC.H</PathWithFilename>
+    <TopLine>1</TopLine>
+    <CurrentLine>9</CurrentLine>
     <Constant>0</Constant>
     <WindowPosition>
       <length>0</length>
@@ -1837,22 +1837,22 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>5</ActiveTab>
+      <ActiveTab>0</ActiveTab>
       <Documents>
         <Doc>
           <Name>.\user\main.c</Name>
-          <ColumnNumber>42</ColumnNumber>
-          <TopLine>28</TopLine>
-          <CurrentLine>51</CurrentLine>
+          <ColumnNumber>5</ColumnNumber>
+          <TopLine>23</TopLine>
+          <CurrentLine>36</CurrentLine>
         </Doc>
         <Doc>
-          <Name>.\APP\IIC\IIC.H</Name>
+          <Name>D:\documents\STC89C52\APP\IIC\IIC.H</Name>
           <ColumnNumber>35</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>9</CurrentLine>
         </Doc>
         <Doc>
-          <Name>APP\24C02\24C02.H</Name>
+          <Name>D:\documents\STC89C52\APP\24C02\24C02.H</Name>
           <ColumnNumber>0</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>1</CurrentLine>
@@ -1864,7 +1864,7 @@
           <CurrentLine>21</CurrentLine>
         </Doc>
         <Doc>
-          <Name>.\APP\IRED\IRED.H</Name>
+          <Name>D:\documents\STC89C52\APP\IRED\IRED.H</Name>
           <ColumnNumber>21</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>11</CurrentLine>
@@ -1876,7 +1876,7 @@
           <CurrentLine>35</CurrentLine>
         </Doc>
         <Doc>
-          <Name>.\APP\UART\UART.H</Name>
+          <Name>D:\documents\STC89C52\APP\UART\UART.H</Name>
           <ColumnNumber>25</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>11</CurrentLine>
@@ -1894,13 +1894,13 @@
           <CurrentLine>17</CurrentLine>
         </Doc>
         <Doc>
-          <Name>.\APP\SMG\SMG.H</Name>
+          <Name>D:\documents\STC89C52\APP\SMG\SMG.H</Name>
           <ColumnNumber>15</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>14</CurrentLine>
         </Doc>
         <Doc>
-          <Name>.\PUBLIC\PUBLIC.H</Name>
+          <Name>D:\documents\STC89C52\PUBLIC\PUBLIC.H</Name>
           <ColumnNumber>29</ColumnNumber>
           <TopLine>1</TopLine>
           <CurrentLine>13</CurrentLine>

@@ -25,7 +25,7 @@ void main()
 
 	IP = 0x10; //串口高优先级
 	//测试串口
-	/*while(1){  			
+	while(1){  			
 		        P2 = 0xFF;  // LED全亮
 				uart_send(0x05);
 		        delay_ms(1000);
@@ -33,9 +33,9 @@ void main()
 				uart_send(0x03);
 		        delay_ms(1000);
 
-			 }*/
+			 }
 
-	while(1)
+	/*while(1)
 	{
 
 		ired_buf[0]=gsmg_code[gired_data[2]/16];
@@ -53,5 +53,5 @@ void main()
 			EX0=1;//开中断
 			hasnewdata=0;
 		}     
-	}
+	} */
 }

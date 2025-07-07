@@ -309,10 +309,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>38</ColumnNumber>
+      <ColumnNumber>65</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>15</TopLine>
-      <CurrentLine>37</CurrentLine>
+      <TopLine>13</TopLine>
+      <CurrentLine>35</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\app\uart\uart.c</PathWithFileName>
       <FilenameWithoutPath>uart.c</FilenameWithoutPath>
@@ -1871,9 +1871,9 @@
         </Doc>
         <Doc>
           <Name>.\app\uart\uart.c</Name>
-          <ColumnNumber>0</ColumnNumber>
+          <ColumnNumber>65</ColumnNumber>
           <TopLine>13</TopLine>
-          <CurrentLine>29</CurrentLine>
+          <CurrentLine>35</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\APP\UART\UART.H</Name>
